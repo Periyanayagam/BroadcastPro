@@ -1,4 +1,4 @@
-# NetworkPro
+# BroadcastPro
 Sample application to demonstarte broadcast receivers functionality like passing data via intent, setting alarm, battery status and handling power actions , handling network connections. 
 
   [![Watch the video](https://github.com/Periyanayagam/BroadcastPro/blob/master/broadcastPro.gif)](https://github.com/Periyanayagam/BroadcastPro/blob/master/broadcastPro.gif)
