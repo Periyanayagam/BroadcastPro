@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BroadcastPro</string>
+
+    <string name="channel_name">Perusudroid Channel </string>
+    <string name="channel_description">This is a test channel at level a high level, where lights, sound, and vibration are active.</string>
+    <string name="intent">Intent</string>
+
+</resources>
